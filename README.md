@@ -1,10 +1,10 @@
 # Olá, meu nome é Rafael Gomes.
 
-Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilidades em Back-end. Bem-vindo(a) à minha página! Aqui no GitHub, você encontra projetos que desenvolvi.
+Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilidades em Full Stack. Bem-vindo(a) à minha página! Aqui no GitHub, você encontra projetos que desenvolvi.
 
 ---
 
-## 🥇 Pilha principal de tecnologias
+## Linguagens e Tecnologias
 
 <!-- PHP -->
 <img
@@ -23,7 +23,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 
 <!-- Git -->
@@ -33,7 +33,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <!-- GitHub -->
@@ -43,7 +43,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   
 />
 
 <!-- VS Code -->
@@ -53,14 +53,8 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-          
-          
-<br/>
-<br/>
-
-## 🥈 Pilha secundária de tecnologias
 
 <!-- Python -->
 <img 
@@ -69,13 +63,8 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-
-<br/>
-<br/>
-
-## 🥉 Pilha terciária de tecnologias
 
 <!-- Jupyter -->
 <img 
@@ -84,7 +73,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
 
 <!-- HTML -->
@@ -94,7 +83,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"      
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"   
 />
 
 <!-- CSS -->
@@ -104,7 +93,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"      
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"     
 />
 
 <!-- Java -->
@@ -114,7 +103,7 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   title="HTML" 
   width="50px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"      
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"      
 />
 
 <!-- Linux -->
@@ -126,12 +115,80 @@ Sou estudante de Sistemas de Informação e estou aperfeiçoando minhas habilida
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"          
 />
-          
 
-<br/>
-<br/>
+<!-- Windows -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+/>
 
----
+<!-- Node.js -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+/>
+
+<!-- Nest.js -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+/>
+
+<!-- Angular -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+
+<!-- PostgreSQL -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<!-- Docker -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>  
+
+<!-- Postman -->
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="50px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<br clear="both"/>   <!-- força o conteúdo seguinte a ficar abaixo do ícone -->
+
+<hr/>                <!-- linha de separação (equivalente a ---) -->
 
 ## Estatísticas
 
